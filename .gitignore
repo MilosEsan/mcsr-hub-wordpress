@@ -1,0 +1,4 @@
+# Ignore cache and temporary files
+wp-content/uploads/
+wp-content/uploads/wpforms/cache/
+
